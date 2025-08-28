@@ -1,8 +1,9 @@
 import * as React from 'react'
 import { NavLink, Outlet } from 'react-router-dom'
-import { Home, CreditCard, Store, Wallet, ShieldAlert, Users, Code2, ScrollText, Settings as SettingsIcon, PanelLeft } from 'lucide-react'
+import { Home, CreditCard, Store, Wallet, ShieldAlert, Users, Code2, ScrollText, Settings as SettingsIcon, PanelLeft, LogOut } from 'lucide-react'
 import { useDataBootstrap } from '../state/useData'
 import { useSettings } from '../state/useSettings'
+import { useAuth } from '../state/useAuth'
 
 function NavItem({to, label, Icon, collapsed}:{to:string; label:string; Icon:any; collapsed:boolean}){
   return (
@@ -23,6 +24,7 @@ export default function App(){
   const { ready, error, reload } = useDataBootstrap()
   const { role, tz, setRole } = useSettings()
   const [sidebarOpen, setSidebarOpen] = React.useState(true)
+  const { logout } = useAuth()
 
   return (
     <div className="min-h-screen grid transition-all duration-300" style={{ gridTemplateColumns: `${sidebarOpen ? '280px' : '80px'} 1fr` }}>
@@ -57,6 +59,7 @@ export default function App(){
           </div>
           <button onClick={reload} className="text-xs underline">Reload data</button>
           {error && <div className="text-red-400 mt-2 text-xs">{String(error)}</div>}
+          <button onClick={logout} className="btn w-full justify-start mt-2"><LogOut className="w-4 h-4"/> Logout</button>
         </div>
       </aside>
       <main className="p-6">

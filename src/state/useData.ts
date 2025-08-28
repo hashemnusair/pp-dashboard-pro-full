@@ -15,7 +15,7 @@ type Store = {
   ready: boolean; error: Error|null; reload: ()=>void; appendAudit:(e:AuditLog)=>void; updateChargebackStatus:(id:string, status:string)=>void
 }
 
-const BASE = '/data'
+const BASE = (import.meta as any).env?.BASE_URL ? `${(import.meta as any).env.BASE_URL.replace(/\/$/, '')}/data` : '/data'
 // ⬇︎ replace existing loadCsv with this
 function loadCsv<T>(file:string){
   return new Promise<T[]>((res, rej) => {
