@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+*.log
+
+.env
+.env.*.local
+
+.vscode/
+.DS_Store
+.idea/
+
+coverage/
+.cache/
+.eslintcache
