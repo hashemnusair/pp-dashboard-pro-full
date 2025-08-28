@@ -43,7 +43,6 @@ export default function Login(){
             {loading? 'Signing in…' : 'Sign in'}
           </button>
         </form>
-        <div className="text-[10px] text-neutral-500 mt-4">Demo user: OmarFMoghli • Demo pass: adminOmar#2004</div>
       </div>
     </div>
   )
