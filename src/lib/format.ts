@@ -1,0 +1,1 @@
+export const money=(n:number)=> (n||0).toLocaleString(undefined,{style:'currency',currency:'USD',maximumFractionDigits:2}); export const pct=(n:number)=>`${(n*100).toFixed(1)}%`;

@@ -1,0 +1,121 @@
+merchant_id,name,mcc,mcc_description,country,website,onboarding_date,status,payout_schedule,fee_rate_percent,fixed_fee_cents,risk_level
+M00001,Lumina Travel Inc.,7399,Business Services,JO,https://www.luminatravelinc..com,2025-04-18,active,weekly,2.19,30,low
+M00002,Pioneer Tech LLC,5812,Restaurants,TR,https://www.pioneertechllc.com,2025-06-06,active,daily,2.92,25,low
+M00003,Velocity Foods Inc.,5732,Electronics Stores,CA,https://www.velocityfoodsinc..com,2025-03-17,active,weekly,2.83,30,low
+M00004,Atlas Digital Inc.,7999,Recreation,NL,https://www.atlasdigitalinc..com,2025-02-01,active,weekly,2.16,25,medium
+M00005,Quanta Foods Sàrl,6012,Financial Institutions,AE,https://www.quantafoodssàrl.com,2025-03-31,inactive,daily,2.37,30,medium
+M00006,B&H Photo Video,5732,Electronics Stores,US,https://www.bhphotovideo.com,2025-05-14,active,daily,2.24,20,low
+M00007,Nimbus Travel GmbH,5734,Software Stores,SA,https://www.nimbustravelgmbh.com,2025-01-22,active,daily,2.35,10,low
+M00008,Nimbus Retail Ltd,7999,Recreation,US,https://www.nimbusretailltd.com,2025-02-07,active,biweekly,2.45,35,medium
+M00009,Blue Bottle Coffee,5812,Restaurants,US,https://www.bluebottlecoffee.com,2025-01-25,active,daily,2.48,30,low
+M00010,Orion Games Ltd,7999,Recreation,GB,https://www.oriongamesltd.com,2025-05-14,active,weekly,2.39,40,low
+M00011,Vertex Tech GmbH,7999,Recreation,SA,https://www.vertextechgmbh.com,2025-01-05,active,biweekly,2.63,20,low
+M00012,Helix Travel BV,6012,Financial Institutions,GB,https://www.helixtravelbv.com,2025-03-28,active,daily,2.54,20,low
+M00013,Orion Pay Sàrl,4812,Telecom Equip,CA,https://www.orionpaysàrl.com,2025-05-06,active,daily,2.2,30,medium
+M00014,Helix Pay Sàrl,5732,Electronics Stores,FR,https://www.helixpaysàrl.com,2025-06-15,active,daily,2.12,25,high
+M00015,Lumina Games FZE,5812,Restaurants,DE,https://www.luminagamesfze.com,2025-06-24,active,weekly,2.38,20,medium
+M00016,Apex Foods LLC,7399,Business Services,AE,https://www.apexfoodsllc.com,2025-03-08,active,daily,2.43,35,medium
+M00017,Summit Travel FZE,5999,Specialty Retail,SA,https://www.summittravelfze.com,2025-05-29,active,weekly,2.57,20,medium
+M00018,Lumina Outfitters Sàrl,4812,Telecom Equip,SA,https://www.luminaoutfitterssàrl.com,2025-01-07,active,weekly,2.67,30,medium
+M00019,Nimbus Travel Sàrl,5812,Restaurants,FR,https://www.nimbustravelsàrl.com,2025-01-15,active,weekly,2.97,20,low
+M00020,Pioneer Retail LLC,5411,Grocery,GB,https://www.pioneerretailllc.com,2025-05-19,active,biweekly,2.53,20,low
+M00021,Helix Retail BV,5691,Clothing,FR,https://www.helixretailbv.com,2025-07-26,active,weekly,2.64,30,low
+M00022,Zenith Travel LLC,4812,Telecom Equip,US,https://www.zenithtravelllc.com,2025-04-27,inactive,weekly,2.81,25,low
+M00023,Nova Games FZE,5734,Software Stores,SA,https://www.novagamesfze.com,2025-05-07,active,daily,2.91,40,low
+M00024,Huel,5411,Grocery Stores,GB,https://www.huel.com,2025-06-17,active,daily,2.63,20,low
+M00025,Atlas Pay LLC,7399,Business Services,JO,https://www.atlaspayllc.com,2025-05-07,active,weekly,2.73,35,low
+M00026,Helix Games BV,5999,Specialty Retail,NL,https://www.helixgamesbv.com,2025-07-19,active,weekly,3.04,35,low
+M00027,Atlas Tech GmbH,7399,Business Services,TR,https://www.atlastechgmbh.com,2025-02-22,active,weekly,2.89,25,low
+M00028,Apex Pay BV,7999,Recreation,CA,https://www.apexpaybv.com,2025-06-15,active,weekly,3.07,20,medium
+M00029,Nimbus Markets LLC,7399,Business Services,FR,https://www.nimbusmarketsllc.com,2025-07-03,active,biweekly,2.36,20,low
+M00030,Nova Games Sàrl,5812,Restaurants,JO,https://www.novagamessàrl.com,2025-04-02,active,daily,2.57,10,low
+M00031,Zenith Markets FZE,7399,Business Services,FR,https://www.zenithmarketsfze.com,2025-03-22,active,weekly,2.09,20,low
+M00032,"Allbirds, Inc.",5691,Clothing Stores,US,https://www.allbirds.com,2025-06-05,active,weekly,2.35,30,medium
+M00033,Summit Health Ltd,7399,Business Services,FR,https://www.summithealthltd.com,2025-06-30,active,weekly,2.21,35,low
+M00034,Orion Foods FZE,4812,Telecom Equip,JO,https://www.orionfoodsfze.com,2025-07-26,active,weekly,2.71,20,medium
+M00035,Velocity Digital Inc.,7999,Recreation,US,https://www.velocitydigitalinc..com,2025-02-13,active,biweekly,1.83,15,medium
+M00036,Lumina Foods Ltd,6012,Financial Institutions,SA,https://www.luminafoodsltd.com,2025-07-23,active,daily,2.74,40,low
+M00037,Apex Markets Sàrl,5691,Clothing,DE,https://www.apexmarketssàrl.com,2025-05-02,active,biweekly,2.67,20,low
+M00038,Pioneer Outfitters GmbH,5734,Software Stores,SA,https://www.pioneeroutfittersgmbh.com,2025-01-23,active,daily,2.41,25,low
+M00039,Lumina Foods LLC,5734,Software Stores,TR,https://www.luminafoodsllc.com,2025-06-25,active,daily,3.06,40,medium
+M00040,Lumina Health BV,5732,Electronics Stores,CA,https://www.luminahealthbv.com,2025-05-30,active,biweekly,3.21,15,low
+M00041,Nova Health Sàrl,5999,Specialty Retail,SA,https://www.novahealthsàrl.com,2025-03-02,active,weekly,2.43,25,low
+M00042,Quanta Retail BV,7399,Business Services,NL,https://www.quantaretailbv.com,2025-05-18,under_review,biweekly,2.27,20,low
+M00043,Nova Tech Ltd,6012,Financial Institutions,CA,https://www.novatechltd.com,2025-02-25,active,daily,2.59,20,low
+M00044,Nova Markets BV,7399,Business Services,SA,https://www.novamarketsbv.com,2025-06-30,active,daily,2.32,30,medium
+M00045,Glossier,5999,Misc. Specialty Retail,US,https://www.glossier.com,2025-01-13,active,weekly,2.49,20,medium
+M00046,Summit Retail BV,7999,Recreation,AE,https://www.summitretailbv.com,2025-03-30,active,weekly,2.42,35,medium
+M00047,Orion Tech BV,7999,Recreation,DE,https://www.oriontechbv.com,2025-05-26,active,daily,2.48,20,low
+M00048,Gymshark,5691,Clothing Stores,GB,https://www.gymshark.com,2025-02-27,active,daily,2.58,25,medium
+M00049,Apex Outfitters FZE,5734,Software Stores,DE,https://www.apexoutfittersfze.com,2025-02-08,active,weekly,3.14,35,medium
+M00050,Apex Digital Sàrl,5691,Clothing,JO,https://www.apexdigitalsàrl.com,2025-02-01,active,weekly,2.23,25,low
+M00051,Vertex Pay Inc.,7999,Recreation,TR,https://www.vertexpayinc..com,2025-01-29,active,weekly,2.35,35,low
+M00052,Vertex Markets BV,7399,Business Services,CA,https://www.vertexmarketsbv.com,2025-07-01,active,daily,2.65,10,medium
+M00053,Velocity Digital BV,6012,Financial Institutions,NL,https://www.velocitydigitalbv.com,2025-03-18,inactive,weekly,2.36,40,low
+M00054,Atlas Foods Sàrl,5734,Software Stores,US,https://www.atlasfoodssàrl.com,2025-05-10,inactive,weekly,2.04,20,medium
+M00055,Velocity Retail BV,5411,Grocery,JO,https://www.velocityretailbv.com,2025-02-11,active,weekly,2.41,30,low
+M00056,Orion Outfitters Sàrl,5691,Clothing,FR,https://www.orionoutfitterssàrl.com,2025-06-20,active,weekly,2.73,35,high
+M00057,Helix Markets GmbH,5999,Specialty Retail,GB,https://www.helixmarketsgmbh.com,2025-03-26,active,weekly,2.85,10,low
+M00058,Apex Outfitters LLC,5999,Specialty Retail,GB,https://www.apexoutfittersllc.com,2025-05-28,active,weekly,2.54,20,high
+M00059,Quanta Travel LLC,5734,Software Stores,CA,https://www.quantatravelllc.com,2025-07-29,active,weekly,2.71,15,low
+M00060,Vertex Tech Sàrl,5732,Electronics Stores,US,https://www.vertextechsàrl.com,2025-01-10,active,weekly,1.74,30,low
+M00061,Atlas Tech BV,5812,Restaurants,US,https://www.atlastechbv.com,2025-03-22,active,daily,2.61,15,medium
+M00062,Lumina Travel FZE,5812,Restaurants,FR,https://www.luminatravelfze.com,2025-04-19,active,weekly,3.25,25,low
+M00063,Nimbus Retail Inc.,5999,Specialty Retail,FR,https://www.nimbusretailinc..com,2025-06-08,active,biweekly,2.91,40,low
+M00064,Velocity Outfitters BV,7999,Recreation,JO,https://www.velocityoutfittersbv.com,2025-07-12,active,weekly,2.66,10,medium
+M00065,Pioneer Retail Sàrl,5999,Specialty Retail,FR,https://www.pioneerretailsàrl.com,2025-04-14,under_review,daily,2.87,40,low
+M00066,Velocity Foods BV,6012,Financial Institutions,TR,https://www.velocityfoodsbv.com,2025-06-07,active,weekly,2.65,20,high
+M00067,Lumina Travel FZE,5999,Specialty Retail,CA,https://www.luminatravelfze.com,2025-05-21,under_review,daily,3.08,20,low
+M00068,Pioneer Tech LLC,5812,Restaurants,FR,https://www.pioneertechllc.com,2025-01-18,active,daily,2.25,40,high
+M00069,Quanta Retail GmbH,5732,Electronics Stores,SA,https://www.quantaretailgmbh.com,2025-01-28,active,weekly,2.7,20,low
+M00070,Helix Games Sàrl,5411,Grocery,SA,https://www.helixgamessàrl.com,2025-05-08,active,weekly,2.18,35,low
+M00071,Zenith Retail FZE,7999,Recreation,DE,https://www.zenithretailfze.com,2025-01-11,inactive,biweekly,2.45,25,low
+M00072,Apex Tech Ltd,4812,Telecom Equip,FR,https://www.apextechltd.com,2025-06-13,active,weekly,2.35,10,low
+M00073,Nimbus Retail Sàrl,5812,Restaurants,JO,https://www.nimbusretailsàrl.com,2025-03-08,active,weekly,2.41,35,low
+M00074,Summit Pay Sàrl,5732,Electronics Stores,AE,https://www.summitpaysàrl.com,2025-05-23,active,weekly,2.85,10,low
+M00075,Lumina Retail LLC,7999,Recreation,NL,https://www.luminaretailllc.com,2025-05-20,active,weekly,2.72,35,medium
+M00076,Nova Games Sàrl,5999,Specialty Retail,SA,https://www.novagamessàrl.com,2025-03-18,active,biweekly,2.9,15,low
+M00077,Vertex Games BV,4812,Telecom Equip,SA,https://www.vertexgamesbv.com,2025-07-12,active,weekly,2.6,35,medium
+M00078,Helix Games BV,7399,Business Services,NL,https://www.helixgamesbv.com,2025-03-21,inactive,biweekly,2.58,30,low
+M00079,Nova Tech Ltd,5734,Software Stores,US,https://www.novatechltd.com,2025-03-27,inactive,weekly,2.81,20,low
+M00080,Apex Pay Inc.,5411,Grocery,SA,https://www.apexpayinc..com,2025-07-17,active,biweekly,2.43,35,low
+M00081,Pioneer Outfitters Ltd,5732,Electronics Stores,FR,https://www.pioneeroutfittersltd.com,2025-02-11,inactive,weekly,3.01,35,medium
+M00082,Velocity Outfitters GmbH,5691,Clothing,GB,https://www.velocityoutfittersgmbh.com,2025-07-08,active,weekly,1.75,20,medium
+M00083,Pioneer Games BV,4812,Telecom Equip,FR,https://www.pioneergamesbv.com,2025-01-04,active,biweekly,2.67,35,low
+M00084,Helix Tech BV,5691,Clothing,AE,https://www.helixtechbv.com,2025-05-08,active,weekly,2.74,10,low
+M00085,Nimbus Health Ltd,5691,Clothing,US,https://www.nimbushealthltd.com,2025-03-06,active,weekly,2.55,40,medium
+M00086,Orion Pay Sàrl,4812,Telecom Equip,JO,https://www.orionpaysàrl.com,2025-02-14,active,daily,2.43,25,medium
+M00087,Helix Tech Ltd,5999,Specialty Retail,SA,https://www.helixtechltd.com,2025-02-07,active,weekly,2.3,10,medium
+M00088,Helix Health FZE,5812,Restaurants,US,https://www.helixhealthfze.com,2025-06-26,active,daily,2.48,40,low
+M00089,Apex Games Ltd,5812,Restaurants,DE,https://www.apexgamesltd.com,2025-07-01,active,weekly,2.27,40,high
+M00090,Pioneer Digital Inc.,5691,Clothing,FR,https://www.pioneerdigitalinc..com,2025-05-16,active,daily,3.0,35,low
+M00091,Vertex Markets FZE,7399,Business Services,DE,https://www.vertexmarketsfze.com,2025-01-31,active,daily,2.37,30,low
+M00092,Atlas Pay BV,5732,Electronics Stores,US,https://www.atlaspaybv.com,2025-05-30,under_review,weekly,2.58,35,low
+M00093,Zenith Pay GmbH,6012,Financial Institutions,JO,https://www.zenithpaygmbh.com,2025-04-04,active,biweekly,3.01,30,medium
+M00094,Pioneer Pay BV,5812,Restaurants,SA,https://www.pioneerpaybv.com,2025-04-08,active,daily,2.06,20,medium
+M00095,Lumina Markets Inc.,6012,Financial Institutions,CA,https://www.luminamarketsinc..com,2025-03-20,active,weekly,2.35,20,low
+M00096,Zenith Games GmbH,5732,Electronics Stores,NL,https://www.zenithgamesgmbh.com,2025-02-11,active,weekly,2.53,20,medium
+M00097,Velocity Markets GmbH,5732,Electronics Stores,US,https://www.velocitymarketsgmbh.com,2025-03-24,active,daily,2.58,20,low
+M00098,Vertex Travel Inc.,5999,Specialty Retail,US,https://www.vertextravelinc..com,2025-03-09,active,weekly,2.22,25,low
+M00099,Nimbus Retail Ltd,7399,Business Services,GB,https://www.nimbusretailltd.com,2025-02-22,inactive,weekly,2.11,30,low
+M00100,Quanta Foods FZE,5812,Restaurants,NL,https://www.quantafoodsfze.com,2025-01-27,active,weekly,2.43,40,low
+M00101,Quanta Outfitters FZE,5812,Restaurants,CA,https://www.quantaoutfittersfze.com,2025-01-17,active,daily,2.94,10,medium
+M00102,Apex Foods Inc.,7399,Business Services,CA,https://www.apexfoodsinc..com,2025-04-03,active,weekly,2.21,10,low
+M00103,Atlas Foods FZE,7399,Business Services,GB,https://www.atlasfoodsfze.com,2025-05-09,active,daily,2.78,10,low
+M00104,Pioneer Digital GmbH,5734,Software Stores,AE,https://www.pioneerdigitalgmbh.com,2025-01-13,active,weekly,3.08,35,low
+M00105,Quanta Foods Sàrl,4812,Telecom Equip,SA,https://www.quantafoodssàrl.com,2025-07-07,active,daily,2.32,10,low
+M00106,Orion Digital LLC,5732,Electronics Stores,US,https://www.oriondigitalllc.com,2025-03-03,active,weekly,2.52,35,medium
+M00107,Orion Tech GmbH,5734,Software Stores,TR,https://www.oriontechgmbh.com,2025-03-08,active,weekly,2.09,10,low
+M00108,Nimbus Foods FZE,5691,Clothing,NL,https://www.nimbusfoodsfze.com,2025-07-12,under_review,biweekly,2.44,40,medium
+M00109,Helix Tech BV,5812,Restaurants,DE,https://www.helixtechbv.com,2025-07-13,active,daily,2.36,30,low
+M00110,Nimbus Foods GmbH,7399,Business Services,JO,https://www.nimbusfoodsgmbh.com,2025-03-14,active,weekly,2.83,40,medium
+M00111,Helix Foods Sàrl,5411,Grocery,CA,https://www.helixfoodssàrl.com,2025-01-24,active,weekly,2.24,35,low
+M00112,Nimbus Digital LLC,5691,Clothing,US,https://www.nimbusdigitalllc.com,2025-03-11,active,daily,2.33,25,high
+M00113,Orion Travel Sàrl,4812,Telecom Equip,CA,https://www.oriontravelsàrl.com,2025-06-04,active,daily,2.13,20,medium
+M00114,Quanta Outfitters GmbH,7999,Recreation,CA,https://www.quantaoutfittersgmbh.com,2025-03-21,active,biweekly,2.65,35,medium
+M00115,Vertex Travel Ltd,5691,Clothing,JO,https://www.vertextravelltd.com,2025-03-11,active,weekly,1.92,30,medium
+M00116,Orion Markets GmbH,5999,Specialty Retail,NL,https://www.orionmarketsgmbh.com,2025-04-28,active,biweekly,2.86,30,low
+M00117,Helix Pay Inc.,5411,Grocery,NL,https://www.helixpayinc..com,2025-06-10,active,daily,3.06,10,low
+M00118,Velocity Outfitters Inc.,5999,Specialty Retail,GB,https://www.velocityoutfittersinc..com,2025-03-18,inactive,daily,3.38,30,low
+M00119,Summit Tech Sàrl,5691,Clothing,AE,https://www.summittechsàrl.com,2025-05-17,active,daily,3.29,30,medium
+M00120,Summit Retail LLC,5732,Electronics Stores,GB,https://www.summitretailllc.com,2025-06-04,active,daily,2.28,25,low
