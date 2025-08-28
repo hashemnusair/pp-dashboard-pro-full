@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=./" />
+  </head>
+  <body></body>
+  <script>
+    // Single Page App redirect for GitHub Pages
+    const segmentCount = location.pathname.split('/').filter(Boolean).length
+    const base = location.pathname.split('/').slice(0, segmentCount - 1).join('/')
+    location.replace(base + '/index.html' + location.search + location.hash)
+  </script>
+</html>
+
+
